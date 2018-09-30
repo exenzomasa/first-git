@@ -1,0 +1,12 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 6b53bdd..fb9aab5 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -7,5 +7,6 @@[m
+   <body>[m
+     <h1>はじめてのバージョン管理</h1>[m
+     <p>Gitを使ってバージョン管理する。</p>[m
+[32m+[m[32m    <img src"git-logo.png" alt="git logo">[m
+   </body>[m
+ </html>[m
+\ No newline at end of file[m
